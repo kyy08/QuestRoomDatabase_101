@@ -12,4 +12,4 @@ data class Mahasiswa(
     val jeniskelamin: String,
     val kelas: String,
     val angkatan: String,
-)
+
