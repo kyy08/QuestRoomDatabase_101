@@ -226,5 +226,5 @@ private fun DeleteConfirmationDialog (
                 Text(text = "Yes")
             }
         }
-    )
+
 }
