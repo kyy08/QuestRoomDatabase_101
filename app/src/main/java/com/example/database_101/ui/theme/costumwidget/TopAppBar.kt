@@ -49,4 +49,3 @@ fun TopAppBarCs(
             modifier = Modifier.align(Alignment.Center)
         )
     }
-}
