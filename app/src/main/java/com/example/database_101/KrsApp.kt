@@ -10,4 +10,3 @@ class KrsApp: Application() {
         super.onCreate()
         containerApp = ContainerApp(this)
     }
-}
