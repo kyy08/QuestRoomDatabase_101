@@ -99,11 +99,3 @@ data class MahasiswaEvent(
     val alamat: String = "",
     val kelas: String = "",
     val angkatan : String = ""
-)
-
-
-
-
-
-
-
